@@ -1,0 +1,23 @@
+.cam{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cam h1{
+    font-size: 6rem;
+    font-weight: 100;
+    color: wheat;
+}
+.cam h2{
+    color: wheat;
+    padding: 5px 0;
+    /* font-weight: 400; */
+}
+/* color: wheat; */
+.cam p{
+    font-style: italic;
+    font-weight: 100;
+    padding: 10px 0;
+}
